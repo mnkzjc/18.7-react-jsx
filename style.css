@@ -1,0 +1,30 @@
+body {
+    background-color: burlywood;
+}
+
+.contactForm > input, button {
+    margin-right: 5px;
+    padding: 5px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+
+.contactItem {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    width: 400px;
+    background-color: beige;
+}
+
+.contactItem > img {
+    float: left;
+    width: 100px;
+    margin-right: 25px;
+}
+
+.contactItem > a {
+    text-decoration: none;
+}
